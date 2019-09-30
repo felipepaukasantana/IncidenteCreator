@@ -1,0 +1,10 @@
+C:\Users\1639646\source\repos\IncidenteCreator\IncidenteCreator\bin\Debug\IncidenteCreator.exe.config
+C:\Users\1639646\source\repos\IncidenteCreator\IncidenteCreator\bin\Debug\IncidenteCreator.exe
+C:\Users\1639646\source\repos\IncidenteCreator\IncidenteCreator\bin\Debug\IncidenteCreator.pdb
+C:\Users\1639646\source\repos\IncidenteCreator\IncidenteCreator\obj\Debug\IncidenteCreator.csprojAssemblyReference.cache
+C:\Users\1639646\source\repos\IncidenteCreator\IncidenteCreator\obj\Debug\IncidenteCreator.Properties.Resources.resources
+C:\Users\1639646\source\repos\IncidenteCreator\IncidenteCreator\obj\Debug\IncidenteCreator.csproj.GenerateResource.cache
+C:\Users\1639646\source\repos\IncidenteCreator\IncidenteCreator\obj\Debug\IncidenteCreator.csproj.CoreCompileInputs.cache
+C:\Users\1639646\source\repos\IncidenteCreator\IncidenteCreator\obj\Debug\IncidenteCreator.exe
+C:\Users\1639646\source\repos\IncidenteCreator\IncidenteCreator\obj\Debug\IncidenteCreator.pdb
+C:\Users\1639646\source\repos\IncidenteCreator\IncidenteCreator\obj\Debug\IncidenteCreator.IncidenteCreator.resources
